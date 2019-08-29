@@ -1,1 +1,1 @@
-! [image of qq ](C:\Users\Public\Pictures\Sample Pictures\企鹅)
+! [image of yaktocat ](https://octodex.github.com/images/yaktocat.png)
