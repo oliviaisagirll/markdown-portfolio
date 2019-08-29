@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [image of qq ](C:\Users\Public\Pictures\Sample Pictures\企鹅)
