@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. outline of auditing
+2. plan of audting
+3. evidence of audting
+    * letter
